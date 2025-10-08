@@ -466,7 +466,11 @@ footer {
 
 
 ## OUTPUT:
-
+![alt text](home1-1.png)
+![alt text](home2-2.png)
+![alt text](menu-1.png)
+![alt text](admin-1.png)
+![alt text](contact-1.png)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
